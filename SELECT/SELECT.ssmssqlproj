@@ -19,6 +19,24 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
+        <FileNode Name="HW1_SQLQuery2 Student Direction.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-E8F88FA2UKH\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-E8F88FA2UKH\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>HW1_SQLQuery2 Student Direction.sql</FullPath>
+        </FileNode>
+        <FileNode Name="HW1_SQLQuery3 Teachers for discipline.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-E8F88FA2UKH\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-E8F88FA2UKH\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>HW1_SQLQuery3 Teachers for discipline.sql</FullPath>
+        </FileNode>
+        <FileNode Name="HW1_SQLQuery4 Discipline Teachers Disciplen_teashers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-E8F88FA2UKH\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-E8F88FA2UKH\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>HW1_SQLQuery4 Discipline Teachers Disciplen_teashers.sql</FullPath>
+        </FileNode>
         <FileNode Name="SQLQuery1 SELETC Teachers.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-E8F88FA2UKH\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>WIN-E8F88FA2UKH\SQLEXPRESS</AssociatedConnSrvName>
@@ -30,6 +48,12 @@
           <AssociatedConnSrvName>WIN-E8F88FA2UKH\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>SQLQuery1 Многотабличный запрос.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery2 SELECT Teahers Disciplins.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:WIN-E8F88FA2UKH\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>WIN-E8F88FA2UKH\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery2 SELECT Teahers Disciplins.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
